@@ -25,7 +25,7 @@ $ conda env create -f environment.yml
 
 - That's it!
 
-
+# Update the conda environment
 
 And if (for some reason) you need a specific version of any of the packages, update the environment.yml file and run:
 
