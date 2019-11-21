@@ -1,0 +1,14 @@
+name: intro-data-analysis
+channels:
+- conda-forge
+
+dependencies:
+- python=3.6
+- matplotlib
+- seaborn
+- pandas
+- numpy
+- fbprophet
+- plotly
+- jupyter
+- pandasql
